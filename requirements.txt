@@ -1,0 +1,12 @@
+pandas
+openpyxl
+requests
+python-dotenv
+geopy
+flask
+flask-cors
+streamlit
+plotly
+pydeck
+wordcloud
+matplotlib
